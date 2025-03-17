@@ -2,3 +2,4 @@ add
 edited in local 
 thrid
 remote
+local
